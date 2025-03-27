@@ -1,0 +1,5 @@
+site_name: Phyton / Swift
+nav:
+  - Home: index.md
+  - About: aboud.md
+
